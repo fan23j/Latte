@@ -1,2 +1,5 @@
 .vscode
 preprocess
+results
+pretrained
+vae

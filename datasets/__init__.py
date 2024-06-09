@@ -8,6 +8,7 @@ from .ffs_image_datasets import FaceForensicsImages
 from .sky_image_datasets import SkyImages
 from .ucf101_image_datasets import UCF101Images
 from .taichi_image_datasets import TaichiImages
+from .basketball_datasets import Basketball
 
 
 def get_dataset(args):
@@ -21,6 +22,14 @@ def get_dataset(args):
             transforms.Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5], inplace=True)
         ])
         return FaceForensics(args, transform=transform_ffs, temporal_sample=temporal_sample)
+    elif args.dataset == 'basketball':
+        transform_ffs = transforms.Compose([
+            video_transforms.ToTensorVideo(), # TCHW
+            video_transforms.RandomHorizontalFlipVideo(),
+            video_transforms.UCFCenterCropVideo(args.image_size),
+            transforms.Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5], inplace=True)
+        ])
+        return Basketball(args, transform=transform_ffs, temporal_sample=temporal_sample)
     elif args.dataset == 'ffs_img':
         transform_ffs = transforms.Compose([
             video_transforms.ToTensorVideo(), # TCHW

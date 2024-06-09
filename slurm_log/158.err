@@ -1,0 +1,106 @@
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/torch/cuda/__init__.py:749: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() if nvml_count < 0 else nvml_count
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+/mnt/mir/fan23j/anaconda3/envs/latte/lib/python3.12/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  torch.utils._pytree._register_pytree_node(
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+    main(OmegaConf.load(args.config))
+    main(OmegaConf.load(args.config))
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+    main(OmegaConf.load(args.config))
+    main(OmegaConf.load(args.config))
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+    main(OmegaConf.load(args.config))
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+    main(OmegaConf.load(args.config))
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+    main(OmegaConf.load(args.config))
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+Traceback (most recent call last):
+  File "/mnt/mir/fan23j/Latte/train.py", line 281, in <module>
+    main(OmegaConf.load(args.config))
+  File "/mnt/mir/fan23j/Latte/train.py", line 49, in main
+    assert torch.cuda.is_available(), "Training currently requires at least one GPU."
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Training currently requires at least one GPU.
+srun: error: arcee.ib: tasks 0-3,5-7: Exited with exit code 1
+srun: error: arcee.ib: task 4: Exited with exit code 1
